@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5280723708798682505
+  m_GuidHigh: 1663761305247175337
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5478865884835914867
+      m_GuidHigh: 3314398791820578182
+    m_SerializedTextureGuid:
+      m_GuidLow: 17584676616123504670
+      m_GuidHigh: 14552647320292363417
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: cat
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4948445077786177168
+      m_GuidHigh: 4056795616148734604
+    m_SerializedTextureGuid:
+      m_GuidLow: 17632696821587489320
+      m_GuidHigh: 7438863795901689161
+    m_Size: {x: 1, y: 0.75}
+    m_SpecifySize: 1
+    m_Name: dog
+    m_Texture: {fileID: 0}
